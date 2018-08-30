@@ -8,4 +8,5 @@ public class Welcome {
     }
     // test line separator commitsadfgsafg serrgeggh sdfsafdsafdgdsgg
     // asdfsafdsf jhgjhgjhfjjjhhjgjhg
+    // set global auto.crlf input commiting with crlf
 }
